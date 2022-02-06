@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-phonebook/static/css/main.c3d5249d.css",
-    "main.js": "/goit-react-hw-04-phonebook/static/js/main.47a94c5f.js",
-    "static/media/sprite.svg": "/goit-react-hw-04-phonebook/static/media/sprite.6719dc5cc4d8f0372cc9c6bac3c7de7b.svg",
-    "index.html": "/goit-react-hw-04-phonebook/index.html",
-    "main.c3d5249d.css.map": "/goit-react-hw-04-phonebook/static/css/main.c3d5249d.css.map",
-    "main.47a94c5f.js.map": "/goit-react-hw-04-phonebook/static/js/main.47a94c5f.js.map"
+    "main.css": "/goit-react-hw-04-hooks-phonebook/static/css/main.c3d5249d.css",
+    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.022981b2.js",
+    "static/media/sprite.svg": "/goit-react-hw-04-hooks-phonebook/static/media/sprite.6719dc5cc4d8f0372cc9c6bac3c7de7b.svg",
+    "index.html": "/goit-react-hw-04-hooks-phonebook/index.html",
+    "main.c3d5249d.css.map": "/goit-react-hw-04-hooks-phonebook/static/css/main.c3d5249d.css.map",
+    "main.022981b2.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.022981b2.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.47a94c5f.js"
+    "static/js/main.022981b2.js"
   ]
 }
